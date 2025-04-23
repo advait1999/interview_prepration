@@ -1,4 +1,4 @@
-package stringMethods;
+package com.mock.mock;
 
 import java.util.Arrays;
 
